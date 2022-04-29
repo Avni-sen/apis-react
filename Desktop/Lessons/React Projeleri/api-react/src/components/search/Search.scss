@@ -1,0 +1,29 @@
+.api-search-form {
+    width: 720px;
+    margin: 0 auto;
+    margin-bottom: 70px;
+    position: relative;
+    .icon {
+        position: absolute;
+        top: 0;
+        left: 20px;
+        height: 80px;
+        width: 70px;
+        display: flex;
+        align-items: center;
+        color: #8e97b6;
+        svg {
+            width: 34px;
+            height: 34px;
+        }
+    }
+    input {
+        width: 100%;
+        height: 80px;
+        border: 1px solid #dfe8ed;
+        border-radius: 40px;
+        padding: 0 20px 0 90px;
+        font-size: 18px;
+        color: #6b7289;
+    }
+}

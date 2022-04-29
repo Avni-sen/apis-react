@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Hunter",
+        "category": "Data Access",
+        "desc": "Hunter API makes it easy to find or verify professional email addresses.",
+        "icon": "img/icon/hunter.svg",
+        "bookmark": false
+    },
+    {
+        "id": 2,
+        "name": "Asana",
+        "category": "Data Access",
+        "desc": "Customize the Asana experience leverage your data with the Asana API.",
+        "icon": "img/icon/asana.svg",
+        "bookmark": false
+    },
+    {
+        "id": 3,
+        "name": "Twilio",
+        "category": "Data Access",
+        "desc": "Send and receive SMS and MMS messages as well as query meta-data about text message.",
+        "icon": "img/icon/twilio.svg",
+        "bookmark": false
+    },
+    {
+        "id": 4,
+        "name": "Whatsapp Business",
+        "category": "Automation",
+        "desc": "Customize the Asana experience leverage your data with the Asana API.",
+        "icon": "img/icon/wplogo.svg",
+        "bookmark": false
+    },
+    {
+        "id": 5,
+        "name": "Mailchimp",
+        "category": "Automation",
+        "desc": "Email marketing, ads, landing, pages and CRM tools to grow your businesson your terms.",
+        "icon": "img/icon/blabla.svg",
+        "bookmark": false
+    },
+    {
+        "id": 6,
+        "name": "Meteorologisk Institut",
+        "category": "Data Access",
+        "desc": "A suite of payment API's that powers commerce for online businesses of all sizes.",
+        "icon": "img/icon/met-logo.svg",
+        "bookmark": false
+    }
+]
